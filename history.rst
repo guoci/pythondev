@@ -14,6 +14,9 @@ History of Python releases
 See also `Status of Python branches
 <https://docs.python.org/devguide/#status-of-python-branches>`_.
 
+* Python 3.14: October 2025
+* Python 3.13: October 2024
+* Python 3.12: October 2023
 * Python 3.11: October 2022
 * Python 3.10: October 2021
 * Python 3.9: October 2020
